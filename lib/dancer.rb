@@ -3,7 +3,7 @@ require_relative './dance_module.rb'
 
 class Dancer
   
-  entend MetaDancing
+  extend MetaDancing
   
   include Dance
   
